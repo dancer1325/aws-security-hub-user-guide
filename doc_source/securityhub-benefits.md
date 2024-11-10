@@ -1,11 +1,15 @@
 # Benefits of AWS Security Hub<a name="securityhub-benefits"></a>
 
-## Reduced effort to collect and prioritize findings<a name="securityhub-benefits-reduced-effort"></a>
-
-Security Hub reduces the effort to collect and prioritize security findings across accounts from integrated AWS services and AWS partner products\. Security Hub processes finding data using a standard finding format, which eliminates the need to manage findings data from multiple formats\. Security Hub then correlates findings across providers to help you prioritize the most important ones\.
+## Reduced effort to collect & prioritize findings<a name="securityhub-benefits-reduced-effort"></a>
+ 
+* -- via -- standard finding data format
+  * ->
+    * NO need to manage findings data -- from -- multiple formats
+    * are correlated | ACROSS providers / prioritize the MOST important ones
 
 ## Automatic security checks against best practices and standards<a name="securityhub-benefits-security-checks"></a>
 
+* TODO:
 Security Hub automatically runs continuous, account\-level configuration and security checks based on AWS best practices and industry standards\. Security Hub provides the result of these checks as a readiness score, and identifies specific accounts and resources that require attention\.
 
 ## Consolidated view of findings across accounts and providers<a name="securityhub-benefits-consolidated-view"></a>
